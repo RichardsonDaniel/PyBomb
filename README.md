@@ -1,5 +1,8 @@
 # 💣ZipBomb
 
+Zip bomb creater with emultiple levels of depth, adding game map soon with new file
+
+
 ## Usage
 `zipbomb.py n_levels out_zip_file`
 
